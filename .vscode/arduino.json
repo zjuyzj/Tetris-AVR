@@ -1,0 +1,7 @@
+{
+    "port": "COM2",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "Tetris.ino",
+    "output": "./build"
+}
